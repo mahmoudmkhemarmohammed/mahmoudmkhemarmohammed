@@ -1,68 +1,68 @@
 <h1 align="center">  
-  👋 Hi, I'm Mahmoud Mkhemar Mohamed  
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">  
+  Hi, I'm Mahmoud Mkhemar Mohamed  
 </h1>  
 
 <p align="center">  
-  🚀 Front-End Developer specialized in <strong>React.js</strong>  
+  🚀 Front-End Developer | React.js Enthusiast  
   <br>  
-  💻 Passionate about building modern, high-performance web applications  
+  💻 Passionate about crafting modern & interactive web experiences  
+</p>  
+
+<p align="center">  
+  <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b7a8d3fd5f1c332ecb7c2211cd74f7f1a201a0be0fd/68747470733a2f2fcdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="Coding GIF">  
 </p>  
 
 ---
 
 ## 🛠 Skills & Technologies  
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,redux,redux,reactquery,axios,figma,git,github,vscode" />  
+</p>  
 
-### 💻 **Core Development Technologies**  
-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-- ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)  
+### ⚛️ **Front-End Development**  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Styling:** Bootstrap, TailwindCSS  
+- **Frameworks & Libraries:** React.js, Next.js  
+- **State Management:** Redux Toolkit, Redux Persist, React Query  
+- **Form Handling:** React Hook Form, Zod  
+- **Animations:** Framer Motion, Swiper, React Content Loader  
+- **HTTP Requests:** Axios  
 
-### 🎨 **UI & Styling**  
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)  
-- ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)  
-
-### ⚛️ **JavaScript Frameworks & Libraries**  
-- ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat-square&logo=react&logoColor=black)  
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)  
-
-### 🔥 **State Management & Data Fetching**  
-- ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)  
-- ![Redux Persist](https://img.shields.io/badge/-Redux_Persist-764ABC?style=flat-square&logo=redux&logoColor=white)  
-- ![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=flat-square&logo=react-query&logoColor=white)  
-
-### 📝 **Form Handling & Validation**  
-- ![React Hook Form](https://img.shields.io/badge/-React_Hook_Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white)  
-- ![Zod](https://img.shields.io/badge/-Zod-8A2BE2?style=flat-square&logo=typescript&logoColor=white)  
-
-### 🎬 **Animations & Content Loading**  
-- ![Framer Motion](https://img.shields.io/badge/-Framer_Motion-FF0066?style=flat-square&logo=framer&logoColor=white)  
-- ![React Content Loader](https://img.shields.io/badge/-React_Content_Loader-0088CC?style=flat-square&logo=react&logoColor=white)  
-- ![Swiper](https://img.shields.io/badge/-Swiper-6332F6?style=flat-square&logo=swiper&logoColor=white)  
-
-### 🔗 **APIs & Data Handling**  
-- ![Axios](https://img.shields.io/badge/-Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)  
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-
-### 🖥 **Programming Languages**  
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-- ![C](https://img.shields.io/badge/-C-555555?style=flat-square&logo=c&logoColor=white)  
+### 🖥 **Other Skills**  
+- **Programming Languages:** C++, C  
+- **Database Query Language:** SQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma  
 
 ---
 
 ## 🚀 Featured Projects  
-📌 **[Project 1](#)** - 📝 Short description of the project  
-📌 **[Project 2](#)** - 🎨 Short description of the project  
-📌 **[Project 3](#)** - ⚡ Short description of the project  
+📌 **[Project 1](#)** - 📝 An innovative web app using React & Next.js  
+📌 **[Project 2](#)** - 🎨 A beautiful UI/UX project styled with TailwindCSS  
+📌 **[Project 3](#)** - ⚡ A high-performance data-driven dashboard  
+
+<p align="center">  
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="Web Development GIF">  
+</p>  
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="450">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450">  
+</p>  
 
 ---
 
 ## 📫 Connect with Me  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile/)  
-🐦 **Twitter:** [twitter.com/yourhandle](https://twitter.com/yourhandle)  
-🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com/)  
+<p align="center">  
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>  
+</p>  
 
 ---
 
-⭐ **If you like my profile, don’t forget to star my projects!** 🚀🔥  
+⭐ **If you like my work, don’t forget to star my projects!** 🚀🔥  
