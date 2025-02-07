@@ -58,9 +58,13 @@
 ---
 
 ## 🚀 Featured Projects  
-📌 **[Project 1](#)** - 📝 An innovative web app using React & Next.js  
-📌 **[Project 2](#)** - 🎨 A beautiful UI/UX project styled with TailwindCSS  
-📌 **[Project 3](#)** - ⚡ A high-performance data-driven dashboard  
+📌 **[https://ishop-store.netlify.app/](#)** - 📝 Apple Store
+📌 **[https://hoksh.netlify.app/](#)** - 🎨 A My Portfolio
+📌 **[https://webteb.netlify.app/](#)** - ⚡ Webteb
+📌 **[https://mahmoudmkhemarmohammed.github.io/Your-Quran/](#)** - ⚡ Your Quran
+📌 **[https://mahmoudmkhemarmohammed.github.io/Your-Quran/](#)** - ⚡ Your Quran
+📌 **[https://mahmoudmkhemarmohammed.github.io/Hoda-Movie/](#)** - ⚡ Hoda Movie
+📌 **[https://momarket.netlify.app/](#)** - ⚡ Mo Market
 
 <p align="center">  
   <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="Web Development GIF">  
