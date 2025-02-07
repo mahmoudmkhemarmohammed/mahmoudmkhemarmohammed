@@ -4,34 +4,48 @@
 </h1>  
 
 <p align="center">  
-  🚀 Front-End Developer | React.js Specialist  
+  🚀 <strong>Front-End Developer | React.js Specialist</strong>  
   <br>  
-  💻 Passionate about crafting interactive & high-performance web applications  
+  🎨 Passionate about creating modern, dynamic & high-performance web experiences  
+</p>  
+
+<p align="center">  
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/364d88d8746e7035a0e1cc0c1a687aad.gif" width="600" alt="Coding GIF">  
 </p>  
 
 ---
 
 ## 🚀 About Me  
-🎯 **Front-End Developer** with expertise in **React.js, Next.js, and modern UI frameworks**.  
-💡 I love solving problems through **efficient and scalable code**.  
-🎨 Focused on creating **aesthetic, user-friendly, and highly functional web experiences**.  
-
-<p align="center">  
-  <img src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b7a8d3fd5f1c332ecb7c2211cd74f7f1a201a0be0fd/68747470733a2f2fcdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="600" alt="Coding GIF">  
-</p>  
+🎯 **A Front-End Developer** specialized in **React.js, Next.js, and UI/UX development**.  
+🎨 Skilled in building **beautiful, high-performance & scalable applications**.  
+🔥 Enthusiastic about **optimizing user experiences & animations with Framer Motion**.  
 
 ---
 
 ## 🛠 Skills & Technologies  
-### **Core Front-End Skills**  
+### **🚀 My Tech Stack**  
 <p align="center">  
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,redux,redux,reactquery,axios,git,github,vscode,figma" />  
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,nextjs,redux,reactquery,axios,git,github,vscode,figma" />  
 </p>  
 
-### **🚀 Animated Skills Section**  
+### **🔥 Animated Skills Display**  
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&width=600&lines=💻+Front-End+Developer;⚛️+React.js+%7C+Next.js;🎨+Tailwind+%7C+Bootstrap;🔥+Redux+Toolkit+%7C+React-Query;🚀+Framer+Motion+%7C+Swiper;🌐+REST+APIs+%7C+Axios;🎯+Problem+Solver;🎓+Lifelong+Learner" />  
 </p>  
+
+### **💻 Front-End Development**  
+- **Languages:** HTML, CSS, JavaScript, TypeScript  
+- **Styling:** Bootstrap, Tailwind CSS  
+- **Frameworks & Libraries:** React.js, Next.js  
+- **State Management:** Redux Toolkit, Redux Persist, React Query  
+- **Form Handling & Validation:** React Hook Form, Zod  
+- **Animations & UI Enhancements:** Framer Motion, Swiper, React Content Loader  
+- **HTTP Requests & APIs:** Axios  
+
+### **🖥️ Other Technologies**  
+- **Programming Languages:** C++, C  
+- **Database Query Language:** SQL  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma  
 
 ---
 
@@ -49,4 +63,19 @@
 📌 **[Project 3](#)** - ⚡ A high-performance data-driven dashboard  
 
 <p align="center">  
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt
+  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="600" alt="Web Development GIF">  
+</p>  
+
+---
+
+## 📫 Connect with Me  
+<p align="center">  
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
+  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>  
+</p>  
+
+---
+
+⭐ **If you like my work, don’t forget to star my projects!** 🚀🔥  
