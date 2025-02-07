@@ -51,8 +51,8 @@
 
 ## 📊 GitHub Stats  
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="450">  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="450">  
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudmkhemarmohammed&show_icons=true&theme=tokyonight" width="450">  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudmkhemarmohammed&theme=tokyonight" width="450">  
 </p>  
 
 ---
@@ -73,10 +73,9 @@
 
 ## 📫 Connect with Me  
 <p align="center">  
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>  
+  <a href="mailto:mahmoudmkhemar0115@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
+  <a href="www.linkedin.com/in/mahmoud-mkhemar-6580bb23b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://hoksh.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>  
 </p>  
 
 ---
