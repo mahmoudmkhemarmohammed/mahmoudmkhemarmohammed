@@ -74,8 +74,11 @@
 ## 📫 Connect with Me  
 <p align="center">  
   <a href="mailto:mahmoudmkhemar0115@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>  
-  <a href="www.linkedin.com/in/mahmoud-mkhemar-6580bb23b"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-  <a href="https://hoksh.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>  
+  <a href="https://www.linkedin.com/in/mahmoud-mkhemar-6580bb23b/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
+  <a href="https://hoksh.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white"></a>
+  <a href="https://api.whatsapp.com/send/?phone=201151920359&text&type=phone_number&app_absent=0">
+    <img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a> 
 </p>  
 
 ---
